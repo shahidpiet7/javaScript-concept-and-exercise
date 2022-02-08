@@ -1,1 +1,1 @@
-# javascript-concept-and-exercise
+# javaScript-concept-and-exercise
